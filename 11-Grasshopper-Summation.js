@@ -12,4 +12,4 @@ var summation = function (num) {
 
    //   another way to get the same result
 
-   const summation = n => n * (n + 1) / 2;
+   const summation = num => num * (num + 1) / 2;
