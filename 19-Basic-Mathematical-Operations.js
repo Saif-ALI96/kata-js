@@ -26,6 +26,7 @@ function basicOp(operation, value1, value2){
 
    //   another way to get the same result
 
+
    function basicOp(operation, value1, value2) {
     switch (operation) {
         case '+': return value1 + value2;

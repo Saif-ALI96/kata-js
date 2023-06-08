@@ -17,8 +17,7 @@ function squareSum(numbers){
 
 
    //   another way to get the same result
-
-
+   
    function squareSum(numbers)
 { 
   let totalSum = 0;
