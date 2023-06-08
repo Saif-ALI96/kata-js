@@ -10,6 +10,7 @@ const stringToNumber = function(str){
   }
 
    //   another way to get the same result
+  
 
   let string_to_number = function(str){
 
